@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Based Projects in Laravel.<br><br>🌱 I’m currently learning NodeJs and MongoDB<br><br>🏫 Want to learn DevOps.<br><br>📝 I regularly write articles on www.tutscoder.com<br><br>💬 Ask me about Angular and tech related stuff<br><br>💰You can help me by Donating<br><br>📫 How to reach me jigneshkumar1494@gmail.com
+🔭 I’m currently working on Web Based Projects in Angular and Nodejs.<br><br>🌱 I’m currently learning NodeJs and MongoDB<br><br>🏫 Want to learn DevOps.<br><br>📝 I regularly write articles on www.tutscoder.com<br><br>💬 Ask me about Angular and tech related stuff<br><br>💰You can help me by Donating<br><br>📫 How to reach me jigneshkumar1494@gmail.com
 
 
 ## 🌐 Socials:
